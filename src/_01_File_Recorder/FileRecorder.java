@@ -19,3 +19,4 @@ public class FileRecorder {
 		}
 	}
 }
+ //Copyright © 2024 Augie Keatinge

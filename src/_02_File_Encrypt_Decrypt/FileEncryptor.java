@@ -58,3 +58,4 @@ public class FileEncryptor {
 	
 	
 }
+ //Copyright © 2024 Augie Keatinge
